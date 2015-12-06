@@ -24,8 +24,6 @@
 
 #include "SeeedOLED.h"
 
-#include <avr/pgmspace.h>
-
 // 8x8 Font ASCII 32 - 127 Implemented
 // Users can modify this to support more characters(glyphs)
 // BasicFont is placed in code memory.
