@@ -1,6 +1,6 @@
 {
     "name": "SeeedOLED",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "Frankie Chu",
     "license": "GPL",
     "description": "Library for 128X64 Grove OLED display."
